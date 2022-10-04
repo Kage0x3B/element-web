@@ -39,7 +39,10 @@
         "https://matrix-client.matrix.org": false
     },
     "setting_defaults": {
-        "breadcrumbs": true
+        "breadcrumbs": true,
+        "UIFeature.deactivate": false,
+        "UIFeature.registration": false,
+        "UIFeature.passwordReset": false
     },
     "jitsi": {
         "preferred_domain": "meet.element.io"
